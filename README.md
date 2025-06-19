@@ -31,6 +31,10 @@ This project presents a comprehensive **Amazon Sales Analysis** dashboard built 
 * DAX (Data Analysis Expressions)
 
 
+📌 Notes
+This dashboard is a static snapshot (image) of a Tableau dashboard.
+For an interactive version, please refer to the POWER BI Public link :- https://app.powerbi.com/viewr=eyJrIjoiZTM5MWQwN2UtZmU3MC00OTRiLTg1M2UtYzc3M2Q0NGVhMmZmIiwidCI6IjNlMTNlOWRlLTFjNGItNGNhNy1iYTlmLTAyN2MwOWFlOGI5MiJ9
+
 ## 📬 Contact
 
 For any questions or feedback, feel free to reach out:
