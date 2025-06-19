@@ -32,7 +32,7 @@ This project presents a comprehensive **Amazon Sales Analysis** dashboard built 
 
 
 📌 Notes
-This dashboard is a static snapshot (image) of a Tableau dashboard.
+This dashboard is a static snapshot (image) of a Power Bi dashboard.
 For an interactive version, please refer to the POWER BI Public link :- https://app.powerbi.com/viewr=eyJrIjoiZTM5MWQwN2UtZmU3MC00OTRiLTg1M2UtYzc3M2Q0NGVhMmZmIiwidCI6IjNlMTNlOWRlLTFjNGItNGNhNy1iYTlmLTAyN2MwOWFlOGI5MiJ9
 
 ## 📬 Contact
